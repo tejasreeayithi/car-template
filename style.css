@@ -1,0 +1,155 @@
+.sec1 {
+    /* border: 2px solid grey; */
+    height: 420px;
+    width: 100%;
+    background-color: rgb(186, 241, 241);
+}
+
+.tejuu1 {
+    color: rgb(10, 8, 8);
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.teju1 {
+    margin-left: 256px;
+    margin-top: 67px;
+}
+
+.teju2 {
+    margin-left: 900px;
+    margin-top: -340px;
+}
+
+.teju2 img {
+    height: 300px;
+}
+
+.teju4 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec3 {
+    /* border: 2px solid grey; */
+    height: 400px;
+    width: 100%;
+    background-color: rgb(186, 241, 241);
+}
+
+.teju6 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.teju6 ul {
+    list-style: none;
+    margin-top: -30px;
+
+}
+
+.teju5 p {
+    margin-left: 158px;
+}
+
+.teju-5 {
+    margin-left: 155px;
+}
+
+.tejuu6 {
+    margin-right: 50px;
+}
+
+.teju7 {
+    align-content: left;
+
+}
+
+.teju7 img {
+    height: 300px;
+    margin-top: -180px;
+    margin-right: 56px;
+}
+
+.teju8 {
+    margin-left: 1000px;
+}
+
+.teju9 {
+    margin-left: 1000px;
+}
+
+.teju10 h6 {
+    border: 2px solid black;
+    height: 30px;
+    width: 150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    font-size: medium;
+    margin-left: 1000px;
+}
+
+
+
+
+
+.teju11 h6 {
+    border: 2px solid black;
+    height: 30px;
+    width: 150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    font-size: medium;
+
+}
+
+.teju10 {
+    margin-top: -178px;
+    float: left;
+}
+
+.yy {
+
+    margin-left: 1204px;
+}
+
+.teju11 {
+    position: absolute;
+}
+
+.ff {
+    margin-left: 1204px;
+}
+
+.teju12{
+  margin-left: 127px;
+}
+.teju12 {
+float: left;
+}
+.teju13 h6{
+    border: 2px solid black;
+    height: 30px;
+    width: 150px;
+    background-color: grey;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+}
+.teju-13{
+    margin-top: 206px;
+    margin-left: 367px;
+}
+.tejuu13{
+    margin-top: -70px;
+    margin-left: 110px;
+}
+.teju13{
+    margin-left: 130px;
+}
